@@ -34,7 +34,7 @@
   ],
   "dependencies": {
     "bootstrap": "^5.1.0",
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "loader-utils": "^2.0.0",
     "lodash": "^4.17.21",
     "react": "^17.0.2",
@@ -69,10 +69,10 @@
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-react": "^7.24.0",
     "mini-css-extract-plugin": "^2.2.0",
-    "node-sass": "^6.0.1",
+    "node-sass": "^9.0.0",
     "nodemon": "^2.0.12",
     "redux-logger": "^3.0.6",
-    "sass-loader": "^12.1.0",
+    "sass-loader": "^17.0.0",
     "style-loader": "^3.2.1",
     "webpack": "^5.48.0",
     "webpack-cli": "^4.7.2"
